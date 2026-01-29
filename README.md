@@ -10,7 +10,7 @@ An 8-chapter story about creativity, sibling teamwork, and discovering that the 
 
 ## How It Was Made
 
-The story was built using **Story Builder Pro** — an interactive process where each family member (Dad, Mom, Nick, Connor) answered 3 questions across 3 rounds:
+The story was built using **Story Builder Pro** — an interactive process where each family member answered 3 questions across 3 rounds:
 
 | Round | Question Type   | Topics Covered |
 |-------|----------------|----------------|
