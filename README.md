@@ -20,6 +20,10 @@ The story was built using **Story Builder Pro** — an interactive process where
 
 Every answer shaped the final story.
 
+## Make Your Own
+
+Want to create a story with your family? See [`prompt.md`](prompt.md) for a ready-to-use prompt you can paste into any AI assistant.
+
 ## Files
 
 | File | Description |
@@ -27,6 +31,7 @@ Every answer shaped the final story.
 | [`story.md`](story.md) | Full story with inline image prompts |
 | [`story-text.md`](story-text.md) | Clean story text only (no image prompts) |
 | [`image-prompts.md`](image-prompts.md) | All 6 image prompts, ready for AI generators |
+| [`prompt.md`](prompt.md) | Base prompt to create your own family story |
 
 ## Image Prompts
 
