@@ -20,6 +20,10 @@ The story was built using **Story Builder Pro** — an interactive process where
 
 Every answer shaped the final story.
 
+## Contribute
+
+Want to add illustrations, translations, spin-off stories, or improvements? Check out the [Creative Quests](CREATIVE_QUESTS.md) for ways to contribute.
+
 ## Make Your Own
 
 Want to create a story with your family? See [`prompt.md`](prompt.md) for a ready-to-use prompt you can paste into any AI assistant.
