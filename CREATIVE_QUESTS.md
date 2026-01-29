@@ -57,6 +57,83 @@ Have ideas for making the Story Builder Pro prompt better? More question types, 
 
 ---
 
+## Quest 6: Soundtrack or Theme Song
+
+Compose original music inspired by the story. A heroic main theme, a tense track for the robot chase, a gentle lullaby version of Grandma Elara's message — any genre, any instrument.
+
+**How to submit:**
+- Upload audio to a `soundtrack/` directory, or link to SoundCloud/YouTube/Bandcamp in a markdown file
+- Note which scene or mood the track is meant for
+- All formats welcome — full production, piano demo, even a hummed melody recorded on your phone
+
+---
+
+## Quest 7: Map of Aethermere
+
+Design a detailed map of the Floating Sky Islands. Label key locations: Cogsworth, Foundry Island, Harvest Island, the Grand Plaza, the Bridleway Bridge, and anything else you imagine.
+
+**How to submit:**
+- Add your map to the `images/` directory (e.g. `map-of-aethermere.png`)
+- Hand-drawn, digital, 3D render, pixel art — all styles welcome
+- Bonus points for adding locations not in the story (what else is up there?)
+
+---
+
+## Quest 8: Character Profiles
+
+Write detailed bios for the characters — Zara, Miles, Grandma Elara, Mr. Pemberton, the Skyguard, even Biscuit the mechanical dog. Personality traits, fun facts, inventor specialties, favorite foods.
+
+**How to submit:**
+- Add a markdown file to the repo (e.g. `characters.md`)
+- Include at least 3 characters
+- Feel free to invent backstory that fits the world
+
+---
+
+## Quest 9: Choose Your Own Adventure
+
+Rewrite the story (or a chapter) with branching paths and choices. What if Zara went to Harvest Island instead of the Foundry? What if Miles pushed the OFF button? What if the backpack never ran out?
+
+**How to submit:**
+- Add your branching story as a markdown file with links between sections, or build it as an interactive web page
+- Put it in a `choose-your-adventure/` directory
+- Include at least 3 decision points
+
+---
+
+## Quest 10: Family Read-Aloud Script
+
+Adapt the story into a dramatic reading script with assigned roles so a family can perform it together. Narrator, Zara, Miles, robot sound effects — the whole production.
+
+**How to submit:**
+- Add your script as a markdown file (e.g. `read-aloud-script.md`)
+- Include character assignments, stage directions, and cues
+- Note how many readers are needed (aim for 3–5 so a family can do it)
+
+---
+
+## Quest 11: Lesson Plan or Activity Kit
+
+Create educational materials tied to the story — for teachers, homeschool families, or book clubs. Discussion questions, drawing activities, a "build your own invention" craft project, writing prompts.
+
+**How to submit:**
+- Add your materials to a `lesson-plan/` directory
+- Target an age range (e.g. ages 6–10)
+- Include at least 3 activities or discussion topics
+
+---
+
+## Quest 12: The Remix Challenge
+
+Take the same 12 interview answers that built this story and write a completely different story from them. Same ingredients, different recipe. Floating Sky Islands + kid inventor + robot army + backpack of tools — but a totally different plot, tone, or genre.
+
+**How to submit:**
+- Add your remix to a `remixes/` directory (e.g. `remixes/remix-noir.md`)
+- List the original 12 answers at the top so readers can see how you reinterpreted them
+- Go wild — comedy, mystery, horror-lite, poetry, whatever fits
+
+---
+
 ## Boss-Level Challenges
 
 These are bigger creative projects — adapt the story into a whole new medium. Solo or team efforts welcome.
