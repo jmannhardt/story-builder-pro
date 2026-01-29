@@ -57,6 +57,56 @@ Have ideas for making the Story Builder Pro prompt better? More question types, 
 
 ---
 
+## Boss-Level Challenges
+
+These are bigger creative projects — adapt the story into a whole new medium. Solo or team efforts welcome.
+
+---
+
+### Challenge A: Graphic Novel
+
+Turn the story (or a single chapter) into a graphic novel or comic. Panel layouts, speech bubbles, the works.
+
+**How to submit:**
+- Add pages to a `graphic-novel/` directory as images or a PDF
+- Include a note about your art tools and process
+- Partial chapters are fine — even a few pages count
+
+---
+
+### Challenge B: Narrated Audiobook
+
+Record a high-quality narration of the story. Voice acting, sound effects, background music — go as far as you want.
+
+**How to submit:**
+- Upload audio files to a `narration/` directory (or link to SoundCloud, YouTube, etc. in a markdown file)
+- Note what tools you used (mic, DAW, AI voice, etc.)
+- Single chapters or the full story both welcome
+
+---
+
+### Challenge C: Short Film or Animation
+
+Bring Zara and Miles to life on screen. Live action, 2D animation, 3D, stop-motion, AI-generated video — any format works.
+
+**How to submit:**
+- Add a markdown file to a `video/` directory with a link to the video (YouTube, Vimeo, etc.)
+- Include a short behind-the-scenes description of how you made it
+- Even a single scene or trailer counts
+
+---
+
+### Challenge D: Video Game
+
+Turn the story into a playable experience. A platformer jumping between sky islands, a puzzle game in the Foundry, a text adventure, a visual novel — your call.
+
+**How to submit:**
+- Add your game project to a `game/` directory, or link to it (itch.io, GitHub Pages, etc.) in a markdown file
+- Include a short README with how to play and what engine/tools you used
+- Prototypes and jam-style builds are welcome — it doesn't have to be polished
+
+---
+
 ## Ground Rules
 
 - **Keep it kid-friendly.** This is a family project. Nothing scary, violent, or inappropriate.
